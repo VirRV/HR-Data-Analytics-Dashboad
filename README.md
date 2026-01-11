@@ -35,7 +35,7 @@ A horizontal bar visual shows:
 
 **Insight:** Male employees shows a higher attrtion count as compared to female employees indicating a need fo targeted engagement or policy review.
 
-**3.Department-wise Attrtion**
+**3. Department-wise Attrtion**
 A pie chart breaks attrtion across:
 
 * **R&D - 56.12%**
@@ -44,7 +44,7 @@ A pie chart breaks attrtion across:
 
 **Insight:** R&D experiences the highest attrition, making it a critical focus area for retention efforts.
 
-**4.Employee Distribution by Age Group**
+**4. Employee Distribution by Age Group**
 A histogram visual shows employee count by age bins:
 
 * Majority of employees fall between **27-36 years**.
@@ -52,7 +52,7 @@ A histogram visual shows employee count by age bins:
 
 **Value:** Helps HR aligh workforce planning, hiring and succession strategies.
 
-**4.Job Satisfaction by Job Role**
+**5. Job Satisfaction by Job Role**
 A matrix heatmap helps in analyzing the satisfaction levels (1-4) across roles such as:
 
 * Sales Executive
@@ -62,7 +62,7 @@ A matrix heatmap helps in analyzing the satisfaction levels (1-4) across roles s
 
 **Insight:** Roles with lower satisfaction scores corealte with higher attrition, signaling areas needing policy intervention.
 
-**6.Education Field-wise Attrition
+**6. Education Field-wise Attrition**
 A bar chart highlights attrition by educational background:
 
 * **Life Sciences:** 89
