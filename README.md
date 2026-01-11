@@ -1,4 +1,4 @@
-# HR-Data-Analytics-Dashboad
+# HR-Data-Analytics-Dashboard
 
 An Interactive Data Visualization to understand the attrition rate of employees across different departments by HR.
 
